@@ -1,4 +1,4 @@
-Pizza app
+# Pizza-app
 
 This app was created using React and Redux with Controlled Forms.
 
